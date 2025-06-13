@@ -25,3 +25,4 @@ jobs:
       - name: Test artifact
         run: |
           ls -l UNIVERSE
+
